@@ -1,4 +1,0 @@
-<ul>
-<li>Cokolada</li>
-<li>Sok</li>
-</ul>
