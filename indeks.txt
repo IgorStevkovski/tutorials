@@ -1,4 +1,7 @@
 <ul>
 <li>Cokolada</li>
 <li>Sokic</li>
+
+<li>Sladoled</li>
+<li>Ovosje</li>
 </ul>
